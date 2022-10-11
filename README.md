@@ -1,6 +1,6 @@
-# Public Demos
+# Public Demos Using The Cohere Platform
 
-This repository contains public available demos from the Cohere platform. 
+This repository contains public available demos from the Cohere NLP platform. 
 
 ## 1. <a href="https://txt.cohere.ai/top-js-frameworks-using-a-tweet-analysis-bot/">Tweet Analysis Bot</a>
 
