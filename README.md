@@ -4,7 +4,7 @@ This repository contains public available demos from the Cohere NLP platform.
 
 ## 1. <a href="https://txt.cohere.ai/top-js-frameworks-using-a-tweet-analysis-bot/">Tweet Analysis Bot</a>
 
-Create a tweet analysis bot to deduct which are the top JS frameworks: [<a href="https://github.com/cohere-ai/public-demos/tree/main/python-analysis-bot">Code</a>]
+Create a tweet analysis bot to deduce which are the top JS frameworks: [<a href="https://github.com/cohere-ai/public-demos/tree/main/python-analysis-bot">Code</a>]
 
 <img src="https://user-images.githubusercontent.com/26754576/195356562-0a527d78-e3e1-46bc-be4c-ae85cc415528.png" width="640"/>
 
