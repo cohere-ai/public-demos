@@ -14,3 +14,10 @@ Create a tweet analysis bot to deduce which are the top JS frameworks: [<a href=
 Automatically analyze feedback and classify it into different product areas. [<a href="https://github.com/cohere-ai/public-demos/tree/main/js-discord-feedbackbot">Code</a>]
 
 <img src="https://user-images.githubusercontent.com/26754576/195356647-bfec3d60-7b0c-4e03-8cd6-9247769c54b7.png" width="640"/>
+
+## 2. <a href="https://txt.cohere.ai/extract-entities-from-invoices-using-large-language-models/">Extract Entities from Invoices Using Large Language Models</a>
+
+Automate invoice scanning and extract entities from invoices using LLMs. [<a href="https://github.com/cohere-ai/public-demos/tree/main/js-extract-entities">Code</a>]
+
+<img src="https://user-images.githubusercontent.com/26754576/198416367-a93ae5c1-a576-40ee-8a44-cc75e5b55c8c.png" width="640"/> 
+
