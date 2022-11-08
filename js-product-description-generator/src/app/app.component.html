@@ -1,0 +1,24 @@
+<nav class="navbar navbar-expand-lg bg-light">
+  <div class="container-fluid">
+    <a class="navbar-brand">Ad Generator</a>
+  </div>
+</nav>
+<div class="container-fluid">
+  <div class="row">
+    <form class="col-4">
+      <div class="mb-3">
+        <label for="prompt" class="form-label">What is your product?</label>
+        <textarea class="form-control" name="prompt" rows="5" [(ngModel)]="prompt" #ctrl="ngModel" required></textarea>
+      </div>
+      <button type="submit" class="btn btn-primary" (click)="generateCopy()" [disabled]="!ctrl.valid">Submit</button>
+      <button type="button" class="btn" (click)="generated = []">Clear</button>
+    </form>
+    <div class="col-8">
+      <h4>Generated product descriptions</h4>
+      <ul class="list-group" *ngIf="generated.length > 0">
+        <li class="list-group-item" *ngFor="let text of generated">{{text}}</li>
+      </ul>
+      <span *ngIf="generated.length == 0">No product descriptions created</span>
+    </div>
+  </div>
+</div>
