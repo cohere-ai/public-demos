@@ -21,3 +21,15 @@ Automate invoice scanning and extract entities from invoices using LLMs. [<a hre
 
 <img src="https://user-images.githubusercontent.com/26754576/198416367-a93ae5c1-a576-40ee-8a44-cc75e5b55c8c.png" width="640"/> 
 
+## 4. <a href="https://txt.cohere.ai/text-summarizer-app-user-reviews/">Integrate a Text Summarizer to your App to Analyze User Reviews</a>
+
+Integrate Cohere's Python SDK with a Python app to add NLP functionality and take advantage of LLMs. [<a href="https://github.com/cohere-ai/public-demos/tree/main/python-user-reviews/">Code</a>] 
+
+<img src="https://user-images.githubusercontent.com/26754576/200691685-22e6bd73-82db-4250-bb06-6383124a83ee.png" width="640"/> 
+
+## 5. <a href="https://txt.cohere.ai/how-to-build-a-product-description-generator-with-llms/">How to Build a Product Description Generator with LLMs</a>
+
+Generate product descriptions using large language models (LLMs). [<a href="https://github.com/cohere-ai/public-demos/tree/main/js-product-description-generator">Code</a>] 
+
+<img src="https://user-images.githubusercontent.com/26754576/200692103-9cec65cc-a866-4337-b01a-5044830072e8.png" width="640"/> 
+
