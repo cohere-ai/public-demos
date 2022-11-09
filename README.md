@@ -1,6 +1,8 @@
 # Public Demos Using The Cohere Platform
 
-This repository contains public available demos from the Cohere NLP platform. 
+This repository contains publicly available demos from the Cohere NLP platform. Get started building!
+
+If you have an LLM use case that you'd like us to show a demo for, please fill out <a href="https://forms.gle/RzRRtQXT4LZaMJVX9">this form</a>. 
 
 ## 1. <a href="https://txt.cohere.ai/top-js-frameworks-using-a-tweet-analysis-bot/">Tweet Analysis Bot</a>
 
